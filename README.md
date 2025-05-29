@@ -41,7 +41,7 @@
 ---
 
 ## 🌱 Current Projects
-
+- ☁️ [Weather App](https://github.com/SamruddhiAmbre/Weather-App) – A user-friendly weather dashboard that shows real-time weather updates
 - 💫 [Lifestyle Tracker](https://github.com/SamruddhiAmbre/TracKAndThrive) – A simple, aesthetic Lifestyle Tracking website to help users monitor their nutrition 
 
 ---
