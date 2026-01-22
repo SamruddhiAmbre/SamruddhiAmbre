@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🌐 Passionate about **Web Development**, **Programming**, and **Hands-on Tech Projects**
+- 🌐 Passionate about **Web Development**, **Data Science**, and **AI/ML Projects**
 - 🚀 Fast learner, team player, and always excited to create & explore
 - 🛠️ Currently exploring **Full Stack Development**, **REST APIs**, and **Cozy UI Projects**
 
