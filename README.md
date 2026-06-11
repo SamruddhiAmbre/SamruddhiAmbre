@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Samruddhi Ambre</h1>
-<p align="center">🎓 Computer Engineering Student | 💻 Web Developer | 🌟 Tech Enthusiast</p>
+<p align="center">🎓 Computer Engineering Student | 🌟 Tech Enthusiast</p>
 
 ---
 
