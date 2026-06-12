@@ -60,16 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamruddhiAmbre&theme=nightowl&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=SamruddhiAmbre&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p>
