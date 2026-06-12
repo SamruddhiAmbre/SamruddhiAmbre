@@ -5,9 +5,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🌐 Passionate about **Web Development**, **Data Science**, and **AI/ML Projects**
-- 🚀 Fast learner, team player, and always excited to create & explore
-- 🛠️ Currently exploring **Full Stack Development**, **REST APIs**, and **Cozy UI Projects**
+- 🎓 Computer Engineering student at **K.J. Somaiya School of Engineering**
+- 📊 Pursuing an **Honours in Data Science & Analytics**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Computer Vision, and Full Stack Development**
+- 🌱 Always exploring new technologies and solving real-world problems through software
 
 ---
 
@@ -39,9 +40,14 @@
 ---
 
 ## 🌱 Current Projects
+- ✈️ **Aircraft Maintenance AI Assistant** – RAG-based AI assistant for aircraft manuals and technical documentation
+- 🤖 **AI-Powered Unified Customer Complaint Dashboard** – NLP-powered complaint analysis, sentiment analysis, and SLA management platform
+- 💳 **AI Credit Risk Assessment System** – Machine learning model for customer credit default prediction and decision support
+- 🏥 **Swasthya Setu** – Secure digital health records platform with biometric authentication
+- 🎨 **ThemeX** – MERN-based visual UI builder with drag-and-drop components
+- 📈 **Track & Thrive** – Lifestyle tracking platform for meals, mood, water, and goals
 - ☁️ [Weather App](https://github.com/SamruddhiAmbre/Weather-App) – A user-friendly weather dashboard that shows real-time weather updates  ([Live Demo](https://samruddhiambre.github.io/Weather-App/))
-- 💫 [Lifestyle Tracker](https://github.com/SamruddhiAmbre/TracKAndThrive) – A simple, aesthetic Lifestyle Tracking website to help users monitor their nutrition 
-
+ 
 ---
 
 ## 📊 GitHub Stats
